@@ -1,0 +1,3 @@
+ el uso de contraseñas seguras.
+ la activación de la autenticación de dos factores.
+ la actualización constante de software.

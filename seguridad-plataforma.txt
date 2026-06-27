@@ -1,0 +1,5 @@
+cifrado de datos.
+el control de acceso basado en roles (RBAC).
+la moderación proactiva.
+las copias de seguridad automatizadas. 
+las auditorías de seguridad periódicas.
